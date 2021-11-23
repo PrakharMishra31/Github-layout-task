@@ -1,0 +1,63 @@
+body {
+  background-color: lightgray;
+}
+
+.header {
+  background-color: rgba(22, 22, 49, 0.589);
+  padding: 20px;
+  border-radius: 15px;
+}
+
+.heading {
+  text-align: center;
+  padding-left: 40vw;
+  padding-bottom: 50%;
+  font-size: 40px;
+}
+.side-bar {
+  background-color: rgba(0, 0, 0, 0.685);
+  margin-top: 15px;
+  padding: 10px;
+  width: 25vw;
+  height: 70vh;
+  border-radius: 15px;
+}
+
+.search-bar {
+  background-color: rgba(0, 0, 0, 0.685);
+  width: 70vw;
+  height: fit-content;
+  padding: 20px;
+  margin-top: 15px;
+  border-radius: 15px;
+}
+
+.fa-github {
+  position: relative;
+}
+
+.fa-search {
+  position: absolute;
+}
+
+.form-control {
+  position: relative;
+  margin-left: 50px;
+  width: 90%;
+}
+.middle-box {
+  margin-top: 15px;
+}
+
+.content {
+  background-color: rgba(0, 0, 0, 0.685);
+  padding: 20px;
+  border-radius: 15px;
+}
+
+.description {
+  background-color: rgba(0, 0, 0, 0.685);
+  margin-top: 15px;
+  padding: 15px;
+  border-radius: 15px;
+}
